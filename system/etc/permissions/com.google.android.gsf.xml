@@ -1,0 +1,6 @@
+<!-- microG Installer -->
+<permissions>
+    <privapp-permissions package="com.google.android.gsf">
+        <permission name="android.permission.FAKE_PACKAGE_SIGNATURE"/>
+    </privapp-permissions>
+</permissions>

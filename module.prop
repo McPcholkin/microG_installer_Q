@@ -1,0 +1,6 @@
+id=microg_installer_q
+name=microG Installer for Android Q
+version=Ver: 1 
+versionCode=1
+author=microG project, nift4 (prev. Hieu Van), topjohnwu, GeographicCone, MOVZX, FriendlyNeighborhoodShane, FatherJony
+description=Install microG GmsCore, GsfProxy, DroidGuard Helper

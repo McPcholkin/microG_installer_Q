@@ -1,0 +1,16 @@
+<!-- microG Installer -->
+<permissions>
+    <privapp-permissions package="com.google.android.gms">
+        <permission name="android.permission.INSTALL_LOCATION_PROVIDER"/>
+        <permission name="android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION"/>
+        <permission name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+        <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+        <permission name="android.permission.FAKE_PACKAGE_SIGNATURE"/>
+        <permission name="android.permission.INSTALL_FINE_PROVIDER"/> 
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>         
+        <permission name="android.permission.GET_ACCOUNTS"/> 
+        <permission name="android.permission.READ_PHONE_STATE"/> 
+        <permission name="android.permission.READ_EXTERNAL_STORAGE"/>      
+    </privapp-permissions>
+</permissions>
