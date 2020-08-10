@@ -1,6 +1,12 @@
-# microG Installer Revived 2020-07-31
+# microG Installer Revived 2020-07-31 TESTING!!!
 
 All in one module to get working latest MicroG installed as magisk module on Android 10
+
+Include:
+* GmsCore
+* GsfProxy
+* DroidGuard
+* FakeStore
 
 ## How to make magisk module:
 - Clone repo (or download as zip)
